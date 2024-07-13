@@ -1,0 +1,4 @@
+Usage and Setup
+Installation: Make sure to install the required packages (tensorflow, numpy, opencv-python, scikit-learn).
+Dataset: Organize your images and labels. The label file should contain lines formatted as <filename>,<DBH value>.
+Paths: Adjust image_dir, label_file, and test image paths to point to your actual data locations.
